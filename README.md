@@ -4,6 +4,7 @@ Example Description
 
 Lucas Duncans First Contribution
 Owen Macgowan First Contribution
+Brandon Chan's First Contribution
 Brayden Van De Wynckels First Contribution
 
 
