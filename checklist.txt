@@ -1,0 +1,20 @@
+1. Clear research question
+2. EDA, cleaning and visualization 
+3. Regression task 
+    a) Use more than basic linear model 
+    b) Multiple regression models compared
+    c) Used in a clever way
+4. Classification task
+    a) Do not just bin continuous variable into categories
+    b) Use more than basic logistic regression model
+    c) Multiple classification models compared
+5. Bootstrapping to address inference task
+    a) Results say something about the population of interest 
+6. Prediction and cross-validation
+    a) Predictions from final model used to make important decisions
+7. Code details 
+    a) At least one code output takes more than half a page
+    b) Only show relevant code and information 
+8. All work relates to research question 
+
+
