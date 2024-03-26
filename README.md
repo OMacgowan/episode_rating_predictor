@@ -2,5 +2,5 @@
 Example Description
 
 
-Lucas Duncans First Contribution\n
+Lucas Duncans First Contribution
 Owen Macgowan First Contribution
