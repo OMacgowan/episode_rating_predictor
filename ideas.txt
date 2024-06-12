@@ -1,7 +1,5 @@
 
 5
-Data200 Final Project
-Due April 8th
 Description
 Purpose: Apply the concepts learned in the second half of this course to an interesting data
 set. Choose your own path and demonstrate your mastery of the learning objectives!
