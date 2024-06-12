@@ -1,6 +1,3 @@
-# DATA200_fp
-Example Description
-
 The frequency of dialogue By characters, and between characters in a show, as well as the tone of this dialogue (ie exclamatory dialogue) plays a huge role in determining the feel, emotion, and plot itself of a film/tv show. These factors among other things, greatly impact not only the story being told, but the perception of it by its viewer, and its perception of quality by its rater.
 
 Within our midterm project we looked at the well known tv show FRIENDS, and we found correlations existed between frequency of dialogue and exclamatory dialogue by certain main characters, and the rating of the episode it occured in, as well as finding a relationship between the viewership size of the episode it occured in.
